@@ -1,1 +1,2 @@
 # PYTHON-GUESSING-MINI-GAME
+Первый проект на PYTHON
